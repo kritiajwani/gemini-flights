@@ -171,14 +171,3 @@ Before you begin, ensure you have the following installed on your system:
     }
    )  
    ```
-
-- Bind the tool to Gemini. Gemini should now be able to check flights and also book using the endpoint as an agent.
-![image](https://github.com/AnikethRai/mission-gemini_flights_backend_AR/assets/95706188/944bf6fb-8797-44d8-a2d9-d678ea177447)
-
-## Acknowledgements
-I wanna express my gratitude towards RadicalX Community, especially Talha Sabri and Mikhail Ocampo for providing me the opportunity to learn and build Gemini flights.
- ![image](https://github.com/AnikethRai/Gemini_Explorer/assets/95706188/7fec3346-20fe-4566-8a32-4ca49de2ea83)
-
-## Socials
-- To join RadicalX follow this link. [RadicalX AI](https://www.community.radicalx.co/about](https://www.community.radicalx.co/share/VAN9ZwQaHlvm-ASn?utm_source=manual)https://www.community.radicalx.co/share/VAN9ZwQaHlvm-ASn?utm_source=manual)
-- LinkedIn [Aniketh Rai](https://www.linkedin.com/in/aniketh-rai/)
